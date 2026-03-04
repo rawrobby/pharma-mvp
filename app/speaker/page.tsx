@@ -1,7 +1,7 @@
-export default function Home() {
+export default function SpeakerPage() {
   return (
     <div className="flex items-center justify-center h-screen text-3xl font-bold">
-      Pharma MVP – Login Coming Soon
+      Speaker Portal
     </div>
   )
 }

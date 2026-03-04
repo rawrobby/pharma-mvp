@@ -1,7 +1,7 @@
-export default function Home() {
+export default function MerPage() {
   return (
     <div className="flex items-center justify-center h-screen text-3xl font-bold">
-      Pharma MVP – Login Coming Soon
+      MER Portal
     </div>
   )
 }
