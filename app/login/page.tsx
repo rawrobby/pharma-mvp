@@ -81,6 +81,7 @@ if (checking) return null
   return (
     <div className="flex items-center justify-center h-screen">
       <div className="w-96 p-8 border rounded-lg shadow">
+        <h2 style={{textAlign: "center"}}>DESKTOP TEST</h2>
         <h1 className="text-2xl font-bold mb-6 text-center">Login</h1>
 
         <form onSubmit={handleLogin} className="flex flex-col gap-4">
